@@ -18,7 +18,7 @@
 ###Steps to clone and execute the tests
 +
 +Change the path in config.properties in TestBaseClass
-+git clone https://github.com/Sandeep0383/QAAutomationChallenge/new/master?readme=1
++git clone https://github.com/Sandeep0383/QAAutomationChallenge/tree/master
 +....
 
 
